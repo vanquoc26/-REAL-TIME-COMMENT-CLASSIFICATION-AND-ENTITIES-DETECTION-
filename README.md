@@ -22,5 +22,6 @@ gression, Naive Bayes, and Random Forest. The evaluation metrics considered in
 
 
 * DEMO WEB 
+![image](https://github.com/user-attachments/assets/b778161b-2284-4ae8-8607-938662cca156)
 
 
